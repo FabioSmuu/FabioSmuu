@@ -3,7 +3,7 @@
 
 [![N|Solid](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit) [![N|Solid](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)
 
-# Portofólio: [FabioSmuu](fabiosmuu.github.io)
+# Portofólio: [FabioSmuu](https://fabiosmuu.github.io)
 
 - :bulb: Atuo com soluções de problemas e correções de bugs.
 
