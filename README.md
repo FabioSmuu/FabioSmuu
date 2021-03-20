@@ -25,7 +25,7 @@ console.log('Hello World!')
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-383838?style=flat-square&logo=sqlite)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-bdbdbd?style=flat-square&logo=java)
 ![Json](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 ![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=c%2B%2B)
 
