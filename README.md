@@ -5,7 +5,7 @@
 
 # Portofólio: [FabioSmuu](fabiosmuu.github.io)
 
-#### Qualificação Back-End
+#### Qualificações recente ***Back-End***
 
 > Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Estrutura de dados.
 - :man_technologist: Estudando data science recentemente.
@@ -13,7 +13,7 @@
 - :wrench: Ferramentas: **NodeJS**, Construct 2&3.
 
 
-#### Experiencia pessoal
+#### Qualificações passadas
 - :electric_plug: Tecnologias: Pascal, Perl, C, C++, Assembly, Batch, Bash/Shell, Ruby, Lua, VBS, HTA, ActionScript, HTML5, CSS3, Firebase, ReactNative.
 - :wrench: Ferramentas: Android Studio, RPG Maker, GB Studio, Game Maker, Unity.
 #
