@@ -5,7 +5,7 @@
 
 # Portofólio: [FabioSmuu](fabiosmuu.github.io)
 
-> Atuo com soluções de problemas e correções de bugs.
+- :bulb: Atuo com soluções de problemas e correções de bugs.
 #
 
 #### Qualificações recentes
