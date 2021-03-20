@@ -1,5 +1,6 @@
 
 ![N|Solid](https://nodei.co/npm/stredit.png)
+
 ![N|Solid](https://img.shields.io/npm/dt/stredit.svg) ![N|Solid](https://img.shields.io/npm/v/stredit.svg)
 
 # Portofólio: fabiosmuu.github.io
