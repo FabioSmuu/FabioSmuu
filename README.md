@@ -49,6 +49,7 @@ console.log('Hello World!')
 ![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=flat-square&logo=firebase)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Android](https://img.shields.io/badge/-Android%20Studio-288a51?style=flat-square&logo=android)
+![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 
 - ![HTA](https://img.shields.io/badge/-HTA-black?style=flat-square)
 ![VBS](https://img.shields.io/badge/-VBS-black?style=flat-square)
