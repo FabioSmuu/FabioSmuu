@@ -1,7 +1,7 @@
 
-![N|Solid](https://nodei.co/npm/stredit.png)
+[![N|Solid](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/stredit)
 
-![N|Solid](https://img.shields.io/npm/dt/stredit.svg) ![N|Solid](https://img.shields.io/npm/v/stredit.svg)
+[![N|Solid](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit) [![N|Solid](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)
 
 # Portofólio: [FabioSmuu](fabiosmuu.github.io)
 #
