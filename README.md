@@ -5,7 +5,7 @@
 
 # Portofólio: [FabioSmuu](fabiosmuu.github.io)
 
-#### Qualificações recente ***Back-End***
+#### Qualificações recentes ***Back-End***
 
 > Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Estrutura de dados.
 - :man_technologist: Estudando data science recentemente.
