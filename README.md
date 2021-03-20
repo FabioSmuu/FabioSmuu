@@ -7,6 +7,10 @@
 
 - :bulb: Atuo com soluções de problemas e correções de bugs.
 
+```js
+console.log('Hello World!')
+```
+
 #### Qualificações recentes
 
 > Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Estrutura de dados.
