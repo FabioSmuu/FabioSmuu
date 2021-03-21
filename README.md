@@ -13,7 +13,7 @@ console.log('Hello World!')
 ---
 #### Qualificações recentes
 
-> Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Manipulação e Estrutura de dados.
+> Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Manipulação/Estrutura de dados.
 - :man_technologist: Estudando data science recentemente.
 <!-- - :electric_plug: Tecnologias: **JavaScript, JAVA, C#, SQL, Regex**, XML, JSON, XHR, Canvas, WebSocket, POO.
 - :hammer_and_pick: Ferramentas: **NodeJS**, Construct 2&3.-->
