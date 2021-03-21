@@ -15,8 +15,7 @@ console.log('Hello World!')
 
 > Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Manipulação/Estrutura de dados.
 - :man_technologist: Estudando data science recentemente.
-<!-- - :electric_plug: Tecnologias: **JavaScript, JAVA, C#, SQL, Regex**, XML, JSON, XHR, Canvas, WebSocket, POO.
-- :hammer_and_pick: Ferramentas: **NodeJS**, Construct 2&3.-->
+
 :electric_plug: **Tecnologias**:
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=flat-square&logo=javascript)
@@ -39,8 +38,7 @@ console.log('Hello World!')
 
 #### Qualificações passadas
 :electric_plug: **Tecnologias**:
-<!-- - :electric_plug: Tecnologias: Pascal, Perl, C, C++, Assembly, Batch, Bash/Shell, Ruby, Lua, VBS, HTA, ActionScript, HTML5, CSS3, Firebase, ReactNative.
-- :hammer_and_pick: Ferramentas: Android Studio, RPG Maker, GB Studio, Game Maker, Unity.-->
+
 - ![Pacal](https://img.shields.io/badge/-Pascal-8c7a38?style=flat-square&logo=delphi)
 ![Perl](https://img.shields.io/badge/-Perl-545a8c?style=flat-square&logo=perl)
 ![C++](https://img.shields.io/badge/-C,%20C%2B%2B-54778c?style=flat-square&logo=c%2B%2B)
