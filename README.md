@@ -29,6 +29,7 @@ console.log('Hello World!')
 ![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=c%2B%2B)
 
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
+![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
 ![Regex](https://img.shields.io/badge/-Regex-black?style=flat-square)
 ![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
 ![XHR](https://img.shields.io/badge/-XHR-black?style=flat-square)
