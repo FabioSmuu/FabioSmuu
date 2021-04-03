@@ -19,6 +19,7 @@ console.log('Hello World!')
 :electric_plug: **Tecnologias**:
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=flat-square&logo=javascript)
+![P5](https://img.shields.io/badge/-P5.js-ed225d?style=flat-square&logo=p5.js)
 ![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -37,6 +38,7 @@ console.log('Hello World!')
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
 ![POO](https://img.shields.io/badge/-POO-black?style=flat-square)
 ![C2e3](https://img.shields.io/badge/-Construct%202&3-black?style=flat-square)
+![RMMV](https://img.shields.io/badge/-RMMV-black?style=flat-square)
 
 #### Qualificações passadas
 :electric_plug: **Tecnologias**:
