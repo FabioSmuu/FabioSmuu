@@ -16,7 +16,8 @@ console.log('Hello World!')
 > Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Manipulação/Estrutura de dados.
 - :man_technologist: Estudando data science recentemente.
 - :lock_with_ink_pen: Sempre brincando de bug bounty nas horas vagas.
-- :ring: Amante de novos desafíos.
+- :heart: Amante de novos desafíos.
+- :exploding_head: Disposto a aprender sempre algo novo.
 
 :electric_plug: **Tecnologias**:
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
