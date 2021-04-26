@@ -77,3 +77,4 @@ console.log('Hello World!')
 - [![N|Solid](img/messenger.png)  Messenger](https://www.facebook.com/messages/t/Smuuzinho)
 - [![N|Solid](img/twitter.png)  Twitter](http://twitter.com/fabiosmuu)
 - [![N|Solid](img/itch.io.png)  Itchi.io](https://deehleh.itch.io)
+- E-mail: fabio.inc.contato@gmail.com
