@@ -76,6 +76,6 @@ console.log('Hello World!')
 
 - [![N|Solid](img/card.png) Lojinha online](https://www.facebook.com/Algoritmian/shop/)
 - [![N|Solid](img/facebook.png) Página Facebook](https://www.facebook.com/Algoritmian)
-- [![N|Solid](img/messenger.png)  Messenger](https://www.facebook.com/messages/t/Smuuzinho)
+- [![N|Solid](img/messenger.png)  Messenger](https://www.facebook.com/messages/t/FabioSmuu)
 - [![N|Solid](img/twitter.png)  Twitter](http://twitter.com/fabiosmuu)
 - [![N|Solid](img/itch.io.png)  Itchi.io](https://deehleh.itch.io)
