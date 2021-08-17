@@ -13,7 +13,7 @@ console.log('Hello World!')
 ---
 > Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens/Algoritmos, IAs e Manipulação/Estrutura de dados.
 
-Possuo uma página no facebook chamada [DeehLeh](https://www.facebook.com/Algoritmian) onde posto conteúdos para ajudar novos desenvolvedores, principalmente usuários da game engine Construct ou com dificuldades em lógica, onde também estou aos poucos disponibilizando addons e recursos como o [meu plugin de inventário](https://deehleh.itch.io/inventario-plugin) postado na [itch.io](https://itch.io).
+Possuo uma página no facebook chamada [DeehLeh](https://www.facebook.com/Algoritmian) onde posto conteúdos para ajudar novos desenvolvedores, principalmente usuários da game engine Construct ou com dificuldades em lógica, onde também estou aos poucos disponibilizando addons e recursos como o meu [plugin de inventário](https://deehleh.itch.io/inventario-plugin) postado na [itch.io](https://itch.io).
 
 Desenvolvi um modulo chamado [stredit](https://www.npmjs.com/package/stredit) que facilita a customização do console para quem usa nodejs. O modulo se encontra na versão **1.0.7**, com cerca de **732** a **745** downloads.
 
