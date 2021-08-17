@@ -3,7 +3,7 @@
 
 [![N|Solid](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit) [![N|Solid](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)
 
-# Bem-vindo ao meu Portfólio!
+# Olá, eu me chamo Fabio! 
 
 - :bulb: Atuo com soluções de problemas e correções de bugs.
 
@@ -11,15 +11,13 @@
 console.log('Hello World!')
 ```
 ---
-#### Qualificações recentes
-
-> Sou Desenvolvedor, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens, Algoritmos, IAs e Manipulação/Estrutura de dados.
+> Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens/Algoritmos, IAs e Manipulação/Estrutura de dados.
 - :man_technologist: Estudando data science recentemente.
 - :lock_with_ink_pen: Sempre brincando de bug bounty nas horas vagas.
-- :heart: Amante de novos desafíos.
 - :exploding_head: Disposto a aprender sempre algo novo.
 
-:electric_plug: **Tecnologias**:
+###
+:electric_plug: **Tecnologias atuais**:
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=flat-square&logo=javascript)
 ![P5](https://img.shields.io/badge/-P5.js-ed225d?style=flat-square&logo=p5.js)
@@ -43,8 +41,8 @@ console.log('Hello World!')
 ![C2e3](https://img.shields.io/badge/-Construct%202&3-black?style=flat-square)
 ![RMMV](https://img.shields.io/badge/-RMMV-black?style=flat-square)
 
-#### Qualificações passadas
-:electric_plug: **Tecnologias**:
+###
+:electric_plug: **Tecnologias já estudadas**:
 
 - ![Pacal](https://img.shields.io/badge/-Pascal-8c7a38?style=flat-square&logo=delphi)
 ![Perl](https://img.shields.io/badge/-Perl-545a8c?style=flat-square&logo=perl)
