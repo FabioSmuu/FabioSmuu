@@ -13,6 +13,29 @@ console.log('Hello World!')
 ---
 > Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens/Algoritmos, IAs e Manipulação/Estrutura de dados.
 
+
+<details>
+  <summary>[Spoiler] Como comecei?</summary>
+ 
+ ---
+
+Estou desde 2012 estudando por conta própria e sempre buscando cada vez mais conhecimento, buscando ao máximo novas experiencias, projetos, desafios, novidades e me descobrir cada vez mais.
+
+ Comecei na área através de um computador bem atiguinho sem internet, onde só tinha joguinhos e o mspaint, então sempre busquei algo novo para fazer.... e foi ai que minha paixão começou, quando encontrei a system32 e as variações de extensões como *cmd, bat, vbs* e até mesmo *ini*.
+
+ Com o tempo, fui tentando entender como estes arquivos se comportavam e para que servia, mas para isso eu tinha de ficar indo na lan house para pesquisar, desde então comecei a tentar montar meus próprios "programinhas" com base no que eu aprendia.
+
+ Fiquei por um bom tempo criando interfaces em hta com a back-end em *vbs* até descobrir que existia *vb, pascal e c#*, e a partir dai, comecei a brincar com desenvolvimento de software, fazendo alguns forms para contabilizar o consumo de água do condomínio onde morei, por exemplo.
+
+Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando esta proporção enorme como, por exemplo, a área de data science.
+
+> E foi assim que comecei a me tornei o que sou hoje.
+
+**Obrigado pela atenção.**
+
+ ---
+</details>
+
 Possuo uma página no facebook chamada [DeehLeh](https://www.facebook.com/Algoritmian) onde posto conteúdos para ajudar novos desenvolvedores, principalmente usuários da game engine Construct ou com dificuldades em lógica, onde também estou aos poucos disponibilizando addons e recursos como o meu [plugin de inventário](https://deehleh.itch.io/inventario-plugin) postado na [itch.io](https://itch.io).
 
 Desenvolvi um modulo chamado [stredit](https://www.npmjs.com/package/stredit) que facilita a customização do console para quem usa nodejs. O modulo se encontra na versão **1.0.7**, com cerca de **732** a **745** downloads.
