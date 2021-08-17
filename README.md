@@ -29,7 +29,7 @@ Estou desde 2012 estudando por conta própria e sempre buscando cada vez mais co
 
 Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando esta proporção enorme como, por exemplo, a área de data science.
 
-> E foi assim que comecei a me tornei o que sou hoje.
+> E foi assim que comecei a me tornar o que sou hoje.
 
 **Obrigado pela atenção.**
 
