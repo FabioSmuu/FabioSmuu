@@ -7,6 +7,9 @@
 
 - :bulb: Atuo com soluções de problemas e correções de bugs.
 
+
+Programação: procedural, funcional e orientada a objetos.
+
 ```js
 console.log('Hello World!')
 ```
@@ -35,6 +38,8 @@ Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando
 
  ---
 </details>
+
+
 
 Possuo uma página no facebook chamada [DeehLeh](https://www.facebook.com/Algoritmian) onde posto conteúdos para ajudar novos desenvolvedores, principalmente usuários da game engine Construct ou com dificuldades em lógica, onde também estou aos poucos disponibilizando addons e recursos como o meu [plugin de inventário](https://deehleh.itch.io/inventario-plugin) postado na [itch.io](https://itch.io).
 
@@ -84,7 +89,8 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 ![Android](https://img.shields.io/badge/-Android%20Studio-288a51?style=flat-square&logo=android)
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 
-- ![HTA](https://img.shields.io/badge/-HTA-black?style=flat-square)
+- ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square)
+![HTA](https://img.shields.io/badge/-HTA-black?style=flat-square)
 ![VBS](https://img.shields.io/badge/-VBS-black?style=flat-square)
 ![Batch](https://img.shields.io/badge/-Batch/MsDos-black?style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square)
