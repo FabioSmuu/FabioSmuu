@@ -83,7 +83,7 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 ![Perl](https://img.shields.io/badge/-Perl-545a8c?style=flat-square&logo=perl)
 ![C++](https://img.shields.io/badge/-C,%20C%2B%2B-54778c?style=flat-square&logo=c%2B%2B)
 ![Ruby](https://img.shields.io/badge/-Ruby,%20Lua-c42727?style=flat-square&logo=ruby)
-![jQuery](https://img.shields.io/badge/-JQuery-9e7e15?style=flat-square&logo=jquery)
+![jQuery](https://img.shields.io/badge/-JQuery-1d2d39?style=flat-square&logo=jquery)
 ![ReactNative](https://img.shields.io/badge/-React/React%20Native-575d91?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=flat-square&logo=firebase)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
