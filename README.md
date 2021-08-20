@@ -77,7 +77,7 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 ![RMMV](https://img.shields.io/badge/-RMMV-black?style=flat-square)
 
 ###
-:electric_plug: **Tecnologias já estudadas**:
+:electric_plug: **Tecnologias secundárias**:
 
 - ![Pacal](https://img.shields.io/badge/-Pascal-8c7a38?style=flat-square&logo=delphi)
 ![Perl](https://img.shields.io/badge/-Perl-545a8c?style=flat-square&logo=perl)
