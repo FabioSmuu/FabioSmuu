@@ -43,7 +43,9 @@ Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando
 
 Possuo uma página no facebook chamada [DeehLeh](https://www.facebook.com/Algoritmian) onde posto conteúdos para ajudar novos desenvolvedores, principalmente usuários da game engine Construct ou com dificuldades em lógica, onde também estou aos poucos disponibilizando addons e recursos como o meu [plugin de inventário](https://deehleh.itch.io/inventario-plugin) postado na [itch.io](https://itch.io).
 
-Desenvolvi um modulo chamado [stredit](https://www.npmjs.com/package/stredit) que facilita a customização do console para quem usa nodejs. O modulo se encontra na versão **1.0.7**, com cerca de **732** a **745** downloads.
+Desenvolvi um modulo chamado [stredit](https://www.npmjs.com/package/stredit) que facilita a customização do console para quem usa nodejs.
+
+O modulo se encontra na versão **1.0.7**, com cerca de **732** a **745** downloads.
 
  > Meu foco sempre foi participar de projetos privados, pois, sempre tem mais do que aprender e ensinar.
 
