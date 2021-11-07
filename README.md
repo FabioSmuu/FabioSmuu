@@ -96,6 +96,7 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 ![VBS](https://img.shields.io/badge/-VBS-black?style=flat-square)
 ![Batch](https://img.shields.io/badge/-Batch/MsDos-black?style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square)
+![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square)
 ![NSE](https://img.shields.io/badge/-NSE/Nmap-black?style=flat-square)
 ![Regedit](https://img.shields.io/badge/-Regedit-black?style=flat-square)
 ![ActionScript](https://img.shields.io/badge/-ActionScript-black?style=flat-square)
