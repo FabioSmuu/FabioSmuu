@@ -72,6 +72,7 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
+![BlockChain](https://img.shields.io/badge/-Blockchain-black?style=flat-square)
 ![Regex](https://img.shields.io/badge/-Regex-black?style=flat-square)
 ![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
 ![XHR](https://img.shields.io/badge/-XHR-black?style=flat-square)
@@ -106,7 +107,7 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 ![RPGMaker](https://img.shields.io/badge/-RPG%20Maker-black?style=flat-square)
 ![GBStudio](https://img.shields.io/badge/-GB%20Studio-black?style=flat-square)
 ![GML](https://img.shields.io/badge/-Game%20Maker-black?style=flat-square)
-![phaser](https://img.shields.io/badge/-Phaser-black?style=flat-square)
+![Phaser](https://img.shields.io/badge/-Phaser-black?style=flat-square)
 ---
 
 ### :mailbox_with_mail: Contato
