@@ -66,6 +66,9 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 ![Java](https://img.shields.io/badge/-Java-bf360c?style=flat-square&logo=java)
 ![Json](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 ![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=c%2B%2B)
+![Solidity](https://img.shields.io/badge/-Solidity-383838?style=flat-square&logo=solidity)
+![BEP20](https://img.shields.io/badge/-Binance%20BEP20-383838?style=flat-square&logo=binance)
+![EP20](https://img.shields.io/badge/-Ethereum%20EP20-383838?style=flat-square&logo=ethereum)
 
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
