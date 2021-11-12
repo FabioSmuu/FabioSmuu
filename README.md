@@ -72,6 +72,7 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
+![Metamask](https://img.shields.io/badge/-Metamask-black?style=flat-square)
 ![BlockChain](https://img.shields.io/badge/-Blockchain-black?style=flat-square)
 ![Regex](https://img.shields.io/badge/-Regex-black?style=flat-square)
 ![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
