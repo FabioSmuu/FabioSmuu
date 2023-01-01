@@ -42,7 +42,7 @@ Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando
 Atualmente possuo alguns módulos desenvolvidos e que podem ser explorados através de npm ou yarn.
 
 [![npm i stredit](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/stredit)
-[![npm i artificial.js](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/artificial.js)
+[![npm i artificial.js](https://nodei.co/npm/artificial.js.png)](https://www.npmjs.com/package/artificial.js)
 
 Modulo|Descrição|Comando|Versão|Downloads
 -|-|-|-|--
