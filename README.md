@@ -1,7 +1,7 @@
 
-[![N|Solid](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/stredit)
 
-[![N|Solid](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit) [![N|Solid](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)
+
+
 
 # Olá, eu me chamo Fabio! 
 
@@ -39,76 +39,73 @@ Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando
  ---
 </details>
 
+Atualmente possuo alguns modulosdesenvolvidos e que podem ser explorados atraves de npm ou yarn.
+
+[![npm i stredit](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/stredit)
+[![npm i artificial.js](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/artificial.js)
+
+Modulo|Descrição|Comando|Versão|Downloads
+-|-|-|-|--
+[stredit](https://www.npmjs.com/package/stredit)|Este modulo foidesenvolvido pr facilite a customização do console do Node.js|` npm i stredit`|[![1.0.8](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)|[![665](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit)
+[artificial.js](https://www.npmjs.com/package/artificial.js)|Crie redes neuris artificiais, inteligencias artificiais e qulquer automção artificial com esta poderosa biblioteca. |`npm i artificial.js`|[![1.0.1](https://img.shields.io/npm/v/artificial.js.svg)](https://www.npmjs.com/package/artificial.js) | [![89](https://img.shields.io/npm/dt/artificial.js.svg)](https://www.npmjs.com/package/artificial.js)
+ 
 
 
-Possuo uma página no facebook chamada [DeehLeh](https://www.facebook.com/Algoritmian) onde posto conteúdos para ajudar novos desenvolvedores, principalmente usuários da game engine Construct ou com dificuldades em lógica, onde também estou aos poucos disponibilizando addons e recursos como o meu [plugin de inventário](https://deehleh.itch.io/inventario-plugin) postado na [itch.io](https://itch.io).
 
-Desenvolvi um modulo chamado [stredit](https://www.npmjs.com/package/stredit) que facilita a customização do console para quem usa nodejs.
 
-O modulo se encontra na versão **1.0.7**, com cerca de **732** a **745** downloads.
+Acesse: https://artificial.js.org/reference para consultar a documentação do projeto.
 
- > Meu foco sempre foi participar de projetos privados, pois, sempre tem mais do que aprender e ensinar.
-
-Como lazer, além de programar, gosto de estudar algo como *cyber security* e o progresso de *bug bounty*, pois, adoro desenvolver soluções ^^ e principalmente a área de *data science*, onde já cheguei a desenvolver um [modulo para Redes neurais e Algorítimo Genético](https://github.com/FabioSmuu/RNA), com o intuito de facilitar o desenvolvimento de "redes de neurônios".
 
 ---
 
 ###
-:electric_plug: **Tecnologias atuais**:
-- ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=flat-square&logo=javascript)
-![P5](https://img.shields.io/badge/-P5.js-ed225d?style=flat-square&logo=p5.js)
-![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-383838?style=flat-square&logo=sqlite)
-![Java](https://img.shields.io/badge/-Java-bf360c?style=flat-square&logo=java)
-![Json](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
-![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=c%2B%2B)
-![Solidity](https://img.shields.io/badge/-Solidity-383838?style=flat-square&logo=solidity)
-![BEP20](https://img.shields.io/badge/-Binance%20BEP20-383838?style=flat-square&logo=binance)
-![ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-383838?style=flat-square&logo=ethereum)
+:electric_plug: **Tecnologias de uso recorrente**:
 
-- ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
-![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
-![Metamask](https://img.shields.io/badge/-Metamask-black?style=flat-square)
-![BlockChain](https://img.shields.io/badge/-Blockchain-black?style=flat-square)
-![Regex](https://img.shields.io/badge/-Regex-black?style=flat-square)
-![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
-![XHR](https://img.shields.io/badge/-XHR-black?style=flat-square)
-![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat-square)
-![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
-![POO](https://img.shields.io/badge/-POO-black?style=flat-square)
-![C2e3](https://img.shields.io/badge/-Construct%202&3-black?style=flat-square)
-![RMMV](https://img.shields.io/badge/-RMMV-black?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-031c03?style=for-the-badge&logo=Node.js) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=for-the-badge&logo=javascript) 
+![p5.js](https://img.shields.io/badge/-P5.js-ed225d?style=for-the-badge&logo=p5.js) 
+![JSON](https://img.shields.io/badge/-JSON-838383?style=for-the-badge&logo=json) 
+![CPanel](https://img.shields.io/badge/-CPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-1a165f?style=for-the-badge&logo=php) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) 
+![Bootstrp](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-295f87?style=for-the-badge&logo=mysql&logoColor=white) 
+![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite) 
+![NoSQL](https://img.shields.io/badge/-NoSQL-383838?style=for-the-badge) 
+![Regex](https://img.shields.io/badge/-Regex-383838?style=for-the-badge) 
+![Construct 2&3](https://img.shields.io/badge/-Construct%202&3-383838?style=for-the-badge) 
 
 ###
-:electric_plug: **Tecnologias secundárias**:
+:electric_plug: **Tecnologias já exploradas**:
 
-- ![Pacal](https://img.shields.io/badge/-Pascal-8c7a38?style=flat-square&logo=delphi)
-![Perl](https://img.shields.io/badge/-Perl-545a8c?style=flat-square&logo=perl)
-![C++](https://img.shields.io/badge/-C,%20C%2B%2B-54778c?style=flat-square&logo=c%2B%2B)
-![Ruby](https://img.shields.io/badge/-Ruby,%20Lua-c42727?style=flat-square&logo=ruby)
-![jQuery](https://img.shields.io/badge/-JQuery-1d2d39?style=flat-square&logo=jquery)
-![ReactNative](https://img.shields.io/badge/-React/React%20Native-575d91?style=flat-square&logo=react)
-![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=flat-square&logo=firebase)
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
-![Android](https://img.shields.io/badge/-Android%20Studio-288a51?style=flat-square&logo=android)
-![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
+![Pascal](https://img.shields.io/badge/-Pascal-8c7a38?style=for-the-badge&logo=delphi) 
+![Perl](https://img.shields.io/badge/-Perl-545a8c?style=for-the-badge&logo=perl) 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B) 
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby) 
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua) 
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery) 
+![React](https://img.shields.io/badge/-React-07a8d5?style=for-the-badge&logo=react&logoColor=white) 
+![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=for-the-badge&logo=firebase) 
+![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity) 
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity)
+![Binance%20BEP20](https://img.shields.io/badge/-Binance%20BEP20-EAB300?style=for-the-badge&logo=binance&logoColor=white)
+![Ethereum%20ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-3C3C3D?style=for-the-badge&logo=ethereum)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravelr-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- ![HTA](https://img.shields.io/badge/-HTA-black?style=flat-square)
-![VBS](https://img.shields.io/badge/-VBS-black?style=flat-square)
-![Batch](https://img.shields.io/badge/-Batch/MsDos-black?style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square)
-![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square)
-![NSE](https://img.shields.io/badge/-NSE/Nmap-black?style=flat-square)
-![Regedit](https://img.shields.io/badge/-Regedit-black?style=flat-square)
-![ActionScript](https://img.shields.io/badge/-ActionScript-black?style=flat-square)
-![RPGMaker](https://img.shields.io/badge/-RPG%20Maker-black?style=flat-square)
-![GBStudio](https://img.shields.io/badge/-GB%20Studio-black?style=flat-square)
-![GML](https://img.shields.io/badge/-Game%20Maker-black?style=flat-square)
-![Phaser](https://img.shields.io/badge/-Phaser-black?style=flat-square)
+![ActionScript](https://img.shields.io/badge/-ActionScript-383838?style=for-the-badge) 
+![Regedit](https://img.shields.io/badge/-Regedit-383838?style=for-the-badge) 
+![NSE/Nmap](https://img.shields.io/badge/-NSE/Nmap-383838?style=for-the-badge) 
+![HTA](https://img.shields.io/badge/-HTA-383838?style=for-the-badge) 
+![VBS](https://img.shields.io/badge/-VBS-383838?style=for-the-badge) 
+![Batch](https://img.shields.io/badge/-Batch-383838?style=for-the-badge) 
 ---
 
 ### :mailbox_with_mail: Contato
@@ -119,3 +116,9 @@ Como lazer, além de programar, gosto de estudar algo como *cyber security* e o 
 - [![N|Solid](img/messenger.png)  Messenger](https://www.facebook.com/messages/t/FabioSmuu)
 - [![N|Solid](img/twitter.png)  Twitter](http://twitter.com/fabiosmuu)
 - [![N|Solid](img/itch.io.png)  Itchi.io](https://deehleh.itch.io)
+
+
+##### Obrigado pela atenção!
+> Se quiser, você pode me pagar um café via pix. :sweat_smile:
+
+![N|Solid](https://cdn.discordapp.com/attachments/1035935582762844223/1056890831786758144/BnFOguxwIapRqySqyOJ9fLpqP7EIgvJ1fWlWE8KKGRR2kbqyO6KBZJ7WJORGVWrc4Y59aaBKQEVzGkJAErauagoToYySrg5gBA4HJL8KYaCeVdizcRMcfJQxELsm9toKVaC9cQa2Y62oR9C7Fubm8LAnxDbk62fQ6x5uD1cpeu8V6dgjldCv8DmWlIa2sdLUAAAAAASUVORK5CYII.png)
