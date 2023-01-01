@@ -99,7 +99,6 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![Ethereum%20ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-3C3C3D?style=for-the-badge&logo=ethereum)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravelr-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
 ![ActionScript](https://img.shields.io/badge/-ActionScript-383838?style=for-the-badge) 
 ![Regedit](https://img.shields.io/badge/-Regedit-383838?style=for-the-badge) 
 ![NSE/Nmap](https://img.shields.io/badge/-NSE/Nmap-383838?style=for-the-badge) 
