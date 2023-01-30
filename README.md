@@ -1,6 +1,6 @@
 ![N|Solid](https://cdn.discordapp.com/attachments/1035935582762844223/1069656916000772187/banner_2.png)
 
-> Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens/Algoritmos, IAs e Manipulação/Estrutura de dados.
+> Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Prototipagens, IAs e Manipulação/Estrutura de dados.
 <br>
 
 <details>
