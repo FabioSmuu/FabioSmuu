@@ -63,6 +63,9 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 
 ![MySQL](https://img.shields.io/badge/-MySQL-679C9F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-679C9F?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/-oracle-679C9F?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-postgreSQL-679C9F?style=for-the-badge&logo=postgreSQL&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-679C9F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 
 ![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-679C9F?style=for-the-badge&logo=tampermonkey&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-679C9F?style=for-the-badge&logo=docker&logoColor=white)
@@ -93,6 +96,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![Socket.io](https://img.shields.io/badge/-socket.io-679C9F?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/-ngrok-679C9F?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Google Cardboard](https://img.shields.io/badge/-google%20cardboard-679C9F?style=for-the-badge&logo=googlecardboard&logoColor=white)
+![Google Cloab](https://img.shields.io/badge/-Google%20Colab-679C9F?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ![Tor](https://img.shields.io/badge/-Tor-679C9F?style=for-the-badge&logo=torproject&logoColor=white)
 ![Web Assembly](https://img.shields.io/badge/-Web%20Assembly-679C9F?style=for-the-badge&logo=webassembly&logoColor=white)
@@ -106,6 +110,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![Batch](https://img.shields.io/badge/-Batch-679C9F?style=for-the-badge&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-679C9F?style=for-the-badge&logo=firebase&logoColor=white)
+![Ad Mob](https://img.shields.io/badge/-Ad%20mob-679C9F?style=for-the-badge&logo=googleadmob&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android%20Studio-679C9F?style=for-the-badge&logo=android&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/-Unity-679C9F?style=for-the-badge&logo=unity&logoColor=white)
