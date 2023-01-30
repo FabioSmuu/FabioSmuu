@@ -1,7 +1,7 @@
 ![N|Solid](https://cdn.discordapp.com/attachments/1035935582762844223/1069656916000772187/banner_2.png)
 
 > Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens/Algoritmos, IAs e Manipulação/Estrutura de dados.
-
+<br>
 
 <details>
   <summary>[Spoiler] Como comecei?</summary>
@@ -24,11 +24,10 @@ Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando
 
  ---
 </details>
+<br>
 
+# Conheça meus modulos.
 Atualmente possuo alguns módulos desenvolvidos e que podem ser explorados através de npm ou yarn.
-
-[![npm i stredit](https://nodei.co/npm/stredit.png)](https://www.npmjs.com/package/stredit)
-[![npm i artificial.js](https://nodei.co/npm/artificial.js.png)](https://www.npmjs.com/package/artificial.js)
 
 Modulo|Descrição|Comando|Versão|Downloads
 -|-|-|-|--
@@ -36,13 +35,13 @@ Modulo|Descrição|Comando|Versão|Downloads
 [artificial.js](https://www.npmjs.com/package/artificial.js)|Crie redes neurais, inteligencias e qualquer outra automação artificial com esta poderosa biblioteca. |`npm i artificial.js`|[![1.0.1](https://img.shields.io/npm/v/artificial.js.svg)](https://www.npmjs.com/package/artificial.js) | [![89](https://img.shields.io/npm/dt/artificial.js.svg)](https://www.npmjs.com/package/artificial.js)
  
 
-
-
-
 Acesse: https://artificial.js.org/reference para consultar a documentação do projeto.
 
 
----
+
+<br>
+<br>
+<br>
 
 ###
 :electric_plug: **Tecnologias de uso recorrente**:
@@ -64,6 +63,9 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![NoSQL](https://img.shields.io/badge/-NoSQL-383838?style=for-the-badge) 
 ![Regex](https://img.shields.io/badge/-Regex-383838?style=for-the-badge) 
 ![Construct 2&3](https://img.shields.io/badge/-Construct%202&3-383838?style=for-the-badge) 
+
+<br>
+<br>
 
 ###
 :electric_plug: **Tecnologias já exploradas**:
@@ -91,7 +93,9 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![HTA](https://img.shields.io/badge/-HTA-383838?style=for-the-badge) 
 ![VBS](https://img.shields.io/badge/-VBS-383838?style=for-the-badge) 
 ![Batch](https://img.shields.io/badge/-Batch-383838?style=for-the-badge) 
----
+
+<br>
+<br>
 
 ### :mailbox_with_mail: Contato
 #### E-mail: fabio.inc.contato@gmail.com
@@ -102,6 +106,10 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - [![N|Solid](img/twitter.png)  Twitter](http://twitter.com/fabiosmuu)
 - [![N|Solid](img/itch.io.png)  Itchi.io](https://deehleh.itch.io)
 
+<br>
+<br>
+
+---
 
 ##### Obrigado pela atenção!
 > Se quiser, você pode me pagar um café via pix. :sweat_smile:
