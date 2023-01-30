@@ -46,23 +46,29 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ###
 :electric_plug: **Tecnologias de uso recorrente**:
 
-![Node.js](https://img.shields.io/badge/-Node.js-031c03?style=for-the-badge&logo=Node.js) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=for-the-badge&logo=javascript) 
-![p5.js](https://img.shields.io/badge/-P5.js-ed225d?style=for-the-badge&logo=p5.js) 
-![JSON](https://img.shields.io/badge/-JSON-838383?style=for-the-badge&logo=json) 
-![CPanel](https://img.shields.io/badge/-CPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-1a165f?style=for-the-badge&logo=php) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) 
-![Bootstrp](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-295f87?style=for-the-badge&logo=mysql&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite) 
-![NoSQL](https://img.shields.io/badge/-NoSQL-383838?style=for-the-badge) 
-![Regex](https://img.shields.io/badge/-Regex-383838?style=for-the-badge) 
-![Construct 2&3](https://img.shields.io/badge/-Construct%202&3-383838?style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-679C9F?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-679C9F?style=for-the-badge&logo=Node.js&logoColor=white)
+![Regex](https://img.shields.io/badge/-Regex-679C9F?style=for-the-badge&logoColor=white)
+![p5.js](https://img.shields.io/badge/-P5.js-679C9F?style=for-the-badge&logo=p5.js&logoColor=white)
+
+![PHP](https://img.shields.io/badge/-PHP-679C9F?style=for-the-badge&logo=php&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-679C9F?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-679C9F?style=for-the-badge&logo=apache&logoColor=white)
+![CPanel](https://img.shields.io/badge/-CPanel-679C9F?style=for-the-badge&logo=cpanel&logoColor=white)
+![Git](https://img.shields.io/badge/-git-679C9F?style=for-the-badge&logo=git&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/-HTML5-679C9F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-679C9F?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-679C9F?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-679C9F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-679C9F?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-679C9F?style=for-the-badge&logo=tampermonkey&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-679C9F?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-679C9F?style=for-the-badge&logo=figma&logoColor=white)
+![Aseprite](https://img.shields.io/badge/-Aseprite-679C9F?style=for-the-badge&logo=aseprite&logoColor=white)
+![Construct 2&3](https://img.shields.io/badge/-Construct%202&3-679C9F?style=for-the-badge&logo=construct3&logoColor=white)
 
 <br>
 <br>
@@ -70,29 +76,44 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ###
 :electric_plug: **Tecnologias já exploradas**:
 
-![Pascal](https://img.shields.io/badge/-Pascal-8c7a38?style=for-the-badge&logo=delphi) 
-![Perl](https://img.shields.io/badge/-Perl-545a8c?style=for-the-badge&logo=perl) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B) 
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby) 
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua) 
-![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery) 
-![React](https://img.shields.io/badge/-React-07a8d5?style=for-the-badge&logo=react&logoColor=white) 
-![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=for-the-badge&logo=firebase) 
-![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity) 
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity)
-![Binance%20BEP20](https://img.shields.io/badge/-Binance%20BEP20-EAB300?style=for-the-badge&logo=binance&logoColor=white)
-![Ethereum%20ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-3C3C3D?style=for-the-badge&logo=ethereum)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravelr-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ActionScript](https://img.shields.io/badge/-ActionScript-383838?style=for-the-badge) 
-![Regedit](https://img.shields.io/badge/-Regedit-383838?style=for-the-badge) 
-![NSE/Nmap](https://img.shields.io/badge/-NSE/Nmap-383838?style=for-the-badge) 
-![HTA](https://img.shields.io/badge/-HTA-383838?style=for-the-badge) 
-![VBS](https://img.shields.io/badge/-VBS-383838?style=for-the-badge) 
-![Batch](https://img.shields.io/badge/-Batch-383838?style=for-the-badge) 
+![C](https://img.shields.io/badge/-C-679C9F?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-679C9F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-679C9F?style=for-the-badge&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-679C9F?style=for-the-badge&logo=ruby&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-679C9F?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-679C9F?style=for-the-badge&logo=react&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-679C9F?style=for-the-badge&logo=perl&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-679C9F?style=for-the-badge&logo=python&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-679C9F?style=for-the-badge&logo=delphi&logoColor=white)
+![Powershell](https://img.shields.io/badge/-powershell-679C9F?style=for-the-badge&logo=powershell&logoColor=white)
+![ActionScript](https://img.shields.io/badge/-ActionScript-679C9F?style=for-the-badge&logoColor=white)
+![.Net](https://img.shields.io/badge/-.Net-679C9F?style=for-the-badge&logo=dotnet&logoColor=white)
+
+
+![Socket.io](https://img.shields.io/badge/-socket.io-679C9F?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Ngrok](https://img.shields.io/badge/-ngrok-679C9F?style=for-the-badge&logo=ngrok&logoColor=white)
+![Google Cardboard](https://img.shields.io/badge/-google%20cardboard-679C9F?style=for-the-badge&logo=googlecardboard&logoColor=white)
+
+![Tor](https://img.shields.io/badge/-Tor-679C9F?style=for-the-badge&logo=torproject&logoColor=white)
+![Web Assembly](https://img.shields.io/badge/-Web%20Assembly-679C9F?style=for-the-badge&logo=webassembly&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-679C9F?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravelr-679C9F?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Regedit](https://img.shields.io/badge/-Regedit-679C9F?style=for-the-badge&logoColor=white)
+![NSE/Nmap](https://img.shields.io/badge/-NSE/Nmap-679C9F?style=for-the-badge&logoColor=white)
+![HTA](https://img.shields.io/badge/-HTA-679C9F?style=for-the-badge&logoColor=white)
+![VBS](https://img.shields.io/badge/-VBS-679C9F?style=for-the-badge&logoColor=white)
+![Batch](https://img.shields.io/badge/-Batch-679C9F?style=for-the-badge&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/-Firebase-679C9F?style=for-the-badge&logo=firebase&logoColor=white)
+![Android](https://img.shields.io/badge/-Android%20Studio-679C9F?style=for-the-badge&logo=android&logoColor=white)
+
+![Unity](https://img.shields.io/badge/-Unity-679C9F?style=for-the-badge&logo=unity&logoColor=white)
+
+![Solidity](https://img.shields.io/badge/-Solidity-679C9F?style=for-the-badge&logo=solidity&logoColor=white)
+![Binance%20BEP20](https://img.shields.io/badge/-Binance%20BEP20-679C9F?style=for-the-badge&logo=binance&logoColor=white)
+![Ethereum%20ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-679C9F?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 <br>
 <br>
