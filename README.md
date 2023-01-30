@@ -1,4 +1,4 @@
-![N|Solid](https://cdn.discordapp.com/attachments/1035935582762844223/1069669220553601094/banner.png)
+![N|Solid](img/header.png)
 
 > Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Prototipagens, IAs e Manipulação/Estrutura de dados.
 <br>
@@ -126,10 +126,6 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ### :mailbox_with_mail: Contato
 #### E-mail: fabio.inc.contato@gmail.com
 
-- [![N|Solid](img/card.png) Lojinha online](https://www.facebook.com/Algoritmian/shop/)
-- [![N|Solid](img/facebook.png) Página Facebook](https://www.facebook.com/Algoritmian)
-- [![N|Solid](img/messenger.png)  Messenger](https://www.facebook.com/messages/t/FabioSmuu)
-- [![N|Solid](img/twitter.png)  Twitter](http://twitter.com/fabiosmuu)
 - [![N|Solid](img/itch.io.png)  Itchi.io](https://deehleh.itch.io)
 
 <br>
