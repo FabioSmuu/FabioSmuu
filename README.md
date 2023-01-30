@@ -131,9 +131,4 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 <br>
 <br>
 
----
-
-##### Obrigado pela atenção!
-> Se quiser, você pode me pagar um café via pix. :sweat_smile:
-
-![N|Solid](https://cdn.discordapp.com/attachments/1035935582762844223/1056890831786758144/BnFOguxwIapRqySqyOJ9fLpqP7EIgvJ1fWlWE8KKGRR2kbqyO6KBZJ7WJORGVWrc4Y59aaBKQEVzGkJAErauagoToYySrg5gBA4HJL8KYaCeVdizcRMcfJQxELsm9toKVaC9cQa2Y62oR9C7Fubm8LAnxDbk62fQ6x5uD1cpeu8V6dgjldCv8DmWlIa2sdLUAAAAAASUVORK5CYII.png)
+![N|Solid](img/footer.png)
