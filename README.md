@@ -92,6 +92,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![Powershell](https://img.shields.io/badge/-powershell-679C9F?style=for-the-badge&logo=powershell&logoColor=white)
 ![ActionScript](https://img.shields.io/badge/-ActionScript-679C9F?style=for-the-badge&logoColor=white)
 ![.Net](https://img.shields.io/badge/-.Net-679C9F?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-java-679C9F?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 
 ![Socket.io](https://img.shields.io/badge/-socket.io-679C9F?style=for-the-badge&logo=socketdotio&logoColor=white)
