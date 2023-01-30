@@ -1,19 +1,5 @@
+![N|Solid](https://cdn.discordapp.com/attachments/1035935582762844223/1069656916000772187/banner_2.png)
 
-
-
-
-
-# Olá, eu me chamo Fabio! 
-
-- :bulb: Atuo com soluções de problemas e correções de bugs.
-
-
-Programação: procedural, funcional e orientada a objetos.
-
-```js
-console.log('Hello World!')
-```
----
 > Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Sistemas, Prototipagens/Algoritmos, IAs e Manipulação/Estrutura de dados.
 
 
