@@ -133,4 +133,4 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 <br>
 <br>
 
-![N|Solid](img/footer.png)
+[![N|Solid](img/footer.png)](https://app.picpay.com/user/smuu)
