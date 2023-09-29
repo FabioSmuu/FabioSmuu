@@ -3,8 +3,7 @@
 > Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Prototipagens, IAs e Manipulação/Estrutura de dados.
 <br>
 
-<details>
-  <summary>[Spoiler] Como comecei?</summary>
+**Como comecei ?**<details><summary>Click Aqui :point_left:</summary>
  
  ---
 
@@ -41,10 +40,10 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 
 <br>
 <br>
-<br>
 
 ###
-:electric_plug: **Tecnologias de uso recorrente**:
+:electric_plug: **Tecnologias de uso recorrente:**<details><summary>Click Aqui :point_left:</summary>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-608dff?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-608dff?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -73,12 +72,13 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![Figma](https://img.shields.io/badge/-Figma-608dff?style=for-the-badge&logo=figma&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-608dff?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Construct 2&3](https://img.shields.io/badge/-Construct%202&3-608dff?style=for-the-badge&logo=construct3&logoColor=white)
+</details>
 
-<br>
 <br>
 
 ###
-:electric_plug: **Tecnologias já exploradas**:
+:electric_plug: **Tecnologias já exploradas:**<details><summary>Click Aqui :point_left:</summary>
+<br>
 
 ![C](https://img.shields.io/badge/-C-608dff?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-608dff?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -120,7 +120,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 ![Solidity](https://img.shields.io/badge/-Solidity-608dff?style=for-the-badge&logo=solidity&logoColor=white)
 ![Binance%20BEP20](https://img.shields.io/badge/-Binance%20BEP20-608dff?style=for-the-badge&logo=binance&logoColor=white)
 ![Ethereum%20ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-608dff?style=for-the-badge&logo=ethereum&logoColor=white)
-
+</details>
 
 <br>
 <br>
