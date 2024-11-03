@@ -63,11 +63,14 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - Batch
 - Docker
 - Solidity
+- Assembly
 - C#
+- C/C++
 - ActionScript
 - Pascal
 - NSE (Nmap)
 - Expressões Regulares (Regex)
+- WebAssembly (WASM) 
 
 # Variantes de SQL
 - SQL
@@ -108,7 +111,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - Tailwind CSS
 - Bootstrap
 - jQuery
-- TypeScript
+- TypeScript (Superset)
 - Django
 - p5.js
 
