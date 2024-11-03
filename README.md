@@ -42,84 +42,108 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 <br>
 
 ###
-:electric_plug: **Tecnologias de uso recorrente:**<details><summary>Click Aqui :point_left:</summary>
+:strawberry: **Interessado no meu conhecimento?**<details><summary>Click Aqui :point_left:</summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-608dff?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-608dff?style=for-the-badge&logo=Node.js&logoColor=white)
-![Regex](https://img.shields.io/badge/-Regex-608dff?style=for-the-badge&logoColor=white)
-![p5.js](https://img.shields.io/badge/-P5.js-608dff?style=for-the-badge&logo=p5.js&logoColor=white)
-![Artificial.js](https://img.shields.io/badge/-artificial.js-608dff?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzE4XzM4MykiPgo8bWFzayBpZD0ibWFzazBfMThfMzgzIiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMCIgeT0iMCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij4KPHBhdGggZD0iTTQ4IDBIMFY0OEg0OFYwWiIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2swXzE4XzM4MykiPgo8cGF0aCBkPSJNMzEuMDEwOSAxNi40Mzg3TDQ3LjEzMTMgNDQuMTkwOUgzNC41ODY3TDI0LjQyNDcgMjcuODM2NUwyNCAyNy4xNTNMMjMuNTc1MyAyNy44MzY1TDEzLjQxMzMgNDQuMTkwOUgwLjg2OTU0MUwxNi44ODM2IDE2LjY3N0wxNy4wMjIxIDE2LjQzOUwxNy4wMjgyIDE2LjQyODVMMTcuMTczNyAxNi4xNzg1TDI0LjAwMSA0LjQ0ODMyTDMxLjAwNTUgMTYuNDI5M0wzMS4wMTA5IDE2LjQzODdaIiBzdHJva2U9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yNCAzLjQ1NTk5VjI4LjEwMDNMMTMuNjkxMyA0NC42OTA5SDBMMTYuNTg5OSAxNi4xODc1TDE2LjU4MzQgMTYuMTc3SDE2LjU5NjFMMjQgMy40NTU5OVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yNCAyOC4xMDAzTDM4LjgxODggMjIuNjIzN0wzNC4zMDg3IDQ0LjY5MDlMMjQgMjguMTAwM1oiIGZpbGw9IndoaXRlIi8+CjwvZz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8xOF8zODMiPgo8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==)
+# Áreas de Trabalho
+- Programação
+- Criação de Protótipos
+- Automação
+- Arquitetura, Análise e Engenharia de Dados
+- Automação Web
+- Pentest
+- IoT (Internet das Coisas)
 
-![PHP](https://img.shields.io/badge/-PHP-608dff?style=for-the-badge&logo=php&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-608dff?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-608dff?style=for-the-badge&logo=apache&logoColor=white)
-![CPanel](https://img.shields.io/badge/-CPanel-608dff?style=for-the-badge&logo=cpanel&logoColor=white)
-![Git](https://img.shields.io/badge/-git-608dff?style=for-the-badge&logo=git&logoColor=white)
+# Linguagens de Programação
+- JavaScript
+- PHP
+- Java
+- Python
+- Bash
+- Batch
+- Docker
+- Solidity
+- C#
+- ActionScript
+- Pascal
+- NSE (Nmap)
+- Expressões Regulares (Regex)
 
-![HTML5](https://img.shields.io/badge/-HTML5-608dff?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-608dff?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-608dff?style=for-the-badge&logo=bootstrap&logoColor=white)
+# Variantes de SQL
+- SQL
+- PL/SQL
+- T-SQL
+- JSON-like
+- CQL (Cassandra Query)
+- N1QL (Couchbase)
+- SQL-like
+- AQL (ArangoDB Query)
 
-![MySQL](https://img.shields.io/badge/-MySQL-608dff?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-608dff?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/-oracle-608dff?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-postgreSQL-608dff?style=for-the-badge&logo=postgreSQL&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-608dff?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+# Conexões de Rede
+- Dgram
+- WebSocket
+- Net
+- HTTP
+- Buffer
+- RCON
+- RCP
+- ICMP
+- Socket (incluindo Socket Raw e Stream)
+- VPN, Proxy e Proxychain
+- Protocolos SSL/TLS
+- Apache (servidor web)
+- IIS (servidor web)
 
-![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-608dff?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-608dff?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-608dff?style=for-the-badge&logo=figma&logoColor=white)
-![Aseprite](https://img.shields.io/badge/-Aseprite-608dff?style=for-the-badge&logo=aseprite&logoColor=white)
-![Construct 2&3](https://img.shields.io/badge/-Construct%202&3-608dff?style=for-the-badge&logo=construct3&logoColor=white)
-</details>
+# Formatação de Arquivos
+- CSV
+- XML
+- JSON
+- INI
+- TXT
+- Formatos Personalizados (ex: BIN)
 
-<br>
+# Frameworks e Bibliotecas
+- Laravel
+- React + React-DOM
+- Tailwind CSS
+- Bootstrap
+- jQuery
+- TypeScript
+- Django
+- p5.js
 
-###
-:electric_plug: **Tecnologias já exploradas:**<details><summary>Click Aqui :point_left:</summary>
-<br>
+# Ferramentas Utilizadas
+- Node.js
+- Tampermonkey
+- Tor
+- Firebase
+- Android Studio
+- Sketchware
+- Figma
+- Construct 2 & 3
+- WordPress
+- Metasploit
+- Burp Suite
+- Wireshark
+- tcpdump
+- Regedit (Editor do Registro do Windows)
 
-![C](https://img.shields.io/badge/-C-608dff?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-608dff?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-608dff?style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-608dff?style=for-the-badge&logo=ruby&logoColor=white)
-![JQuery](https://img.shields.io/badge/-JQuery-608dff?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/-React-608dff?style=for-the-badge&logo=react&logoColor=white)
-![Perl](https://img.shields.io/badge/-Perl-608dff?style=for-the-badge&logo=perl&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-608dff?style=for-the-badge&logo=python&logoColor=white)
-![Pascal](https://img.shields.io/badge/-Pascal-608dff?style=for-the-badge&logo=delphi&logoColor=white)
-![Powershell](https://img.shields.io/badge/-powershell-608dff?style=for-the-badge&logo=powershell&logoColor=white)
-![ActionScript](https://img.shields.io/badge/-ActionScript-608dff?style=for-the-badge&logoColor=white)
-![.Net](https://img.shields.io/badge/-.Net-608dff?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/-java-608dff?style=for-the-badge&logo=coffeescript&logoColor=white)
+# Tecnologias de Banco de Dados e ORM
+- Redis
+- Mongoose
+= Sequelize
+- TypeORM
+- Pandas
+- Eloquent
 
-
-![Socket.io](https://img.shields.io/badge/-socket.io-608dff?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Ngrok](https://img.shields.io/badge/-ngrok-608dff?style=for-the-badge&logo=ngrok&logoColor=white)
-![Google Cardboard](https://img.shields.io/badge/-google%20cardboard-608dff?style=for-the-badge&logo=googlecardboard&logoColor=white)
-![Google Cloab](https://img.shields.io/badge/-Google%20Colab-608dff?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-![Tor](https://img.shields.io/badge/-Tor-608dff?style=for-the-badge&logo=torproject&logoColor=white)
-![Web Assembly](https://img.shields.io/badge/-Web%20Assembly-608dff?style=for-the-badge&logo=webassembly&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-608dff?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravelr-608dff?style=for-the-badge&logo=laravel&logoColor=white)
-
-![Regedit](https://img.shields.io/badge/-Regedit-608dff?style=for-the-badge&logoColor=white)
-![NSE/Nmap](https://img.shields.io/badge/-NSE/Nmap-608dff?style=for-the-badge&logoColor=white)
-![HTA](https://img.shields.io/badge/-HTA-608dff?style=for-the-badge&logoColor=white)
-![VBS](https://img.shields.io/badge/-VBS-608dff?style=for-the-badge&logoColor=white)
-![Batch](https://img.shields.io/badge/-Batch-608dff?style=for-the-badge&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/-Firebase-608dff?style=for-the-badge&logo=firebase&logoColor=white)
-![Ad Mob](https://img.shields.io/badge/-Ad%20mob-608dff?style=for-the-badge&logo=googleadmob&logoColor=white)
-![Android](https://img.shields.io/badge/-Android%20Studio-608dff?style=for-the-badge&logo=android&logoColor=white)
-
-![Unity](https://img.shields.io/badge/-Unity-608dff?style=for-the-badge&logo=unity&logoColor=white)
-
-![Solidity](https://img.shields.io/badge/-Solidity-608dff?style=for-the-badge&logo=solidity&logoColor=white)
-![Binance%20BEP20](https://img.shields.io/badge/-Binance%20BEP20-608dff?style=for-the-badge&logo=binance&logoColor=white)
-![Ethereum%20ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-608dff?style=for-the-badge&logo=ethereum&logoColor=white)
+# Inteligência Artificial
+- Redes Neurais Artificiais (RNA)
+- Algoritmos Genéticos (AG)
+- Treinamento de Modelos
+- Criação de Agentes Inteligentes
+- Engenharia de Prompt
+- Processamento de Linguagem Natural (NLP)
+- Integração de Algoritmos de Aprendizado
 </details>
 
 <br>
@@ -127,8 +151,6 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 
 ### :mailbox_with_mail: Contato
 #### E-mail: fabio.inc.contato@gmail.com
-
-- [![N|Solid](img/itch.io.png)  Itchi.io](https://deehleh.itch.io)
 
 <br>
 <br>
