@@ -28,10 +28,10 @@ Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando
 # Conheça meus modulos.
 Atualmente possuo alguns módulos desenvolvidos e que podem ser explorados através de npm ou yarn.
 
-Modulo|Descrição|Comando|Versão|Downloads
--|-|-|-|--
-[stredit](https://www.npmjs.com/package/stredit)|Este modulo foi desenvolvido para facilite a customização do console do Node.js|` npm i stredit`|[![1.0.8](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)|[![665](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit)
-[artificial.js](https://www.npmjs.com/package/artificial.js)|Crie redes neurais, inteligencias e qualquer outra automação artificial com esta poderosa biblioteca. |`npm i artificial.js`|[![1.0.1](https://img.shields.io/npm/v/artificial.js.svg)](https://www.npmjs.com/package/artificial.js) | [![89](https://img.shields.io/npm/dt/artificial.js.svg)](https://www.npmjs.com/package/artificial.js)
+Modulo|Descrição|Versão|Downloads
+-|-|-|--
+[stredit](https://www.npmjs.com/package/stredit)|Este modulo foi desenvolvido para facilite a customização do console do Node.js|[![1.0.8](https://img.shields.io/npm/v/stredit.svg)](https://www.npmjs.com/package/stredit)|[![665](https://img.shields.io/npm/dt/stredit.svg)](https://www.npmjs.com/package/stredit)
+[artificial.js](https://www.npmjs.com/package/artificial.js)|Crie redes neurais, inteligencias e qualquer outra automação artificial com esta poderosa biblioteca. |[![1.0.1](https://img.shields.io/npm/v/artificial.js.svg)](https://www.npmjs.com/package/artificial.js) | [![89](https://img.shields.io/npm/dt/artificial.js.svg)](https://www.npmjs.com/package/artificial.js)
  
 
 Acesse: https://artificial.js.org/reference para consultar a documentação do projeto.
