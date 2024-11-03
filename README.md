@@ -1,6 +1,6 @@
 ![N|Solid](img/header.png)
 
-> Sou Desenvolvedor back-end, focado em engenharia e arquitetura de Softwares, Aplicações, Bots(Robôs), APIs, Plugins/addons, Módulos, Bibliotecas, Prototipagens, IAs e Manipulação/Estrutura de dados.
+> Sou um Desenvolvedor em constante aprendizado :sparkles:
 <br>
 
 **Como comecei ?**<details><summary>Click Aqui :point_left:</summary>
