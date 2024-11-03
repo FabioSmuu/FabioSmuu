@@ -133,7 +133,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 # Tecnologias de Banco de Dados e ORM
 - Redis
 - Mongoose
-= Sequelize
+- Sequelize
 - TypeORM
 - Pandas
 - Eloquent
