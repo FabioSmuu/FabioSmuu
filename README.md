@@ -102,7 +102,6 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - XML
 - JSON
 - INI
-- TXT
 - Formatos Personalizados (ex: BIN)
 
 # Frameworks e Bibliotecas
