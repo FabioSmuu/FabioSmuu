@@ -46,22 +46,22 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 <br>
 
 # Áreas de Trabalho
-- Programação
+- Programação no geral
 - Criação de Protótipos
-- Automação
+- Automação web/rpa/scripts
 - Arquitetura, Análise e Engenharia de Dados
-- Automação Web
-- Pentest
 - IoT (Internet das Coisas)
 
 # Linguagens de Programação
+> Uso no dia-a-dia.
 - JavaScript
 - PHP
 - Java
 - Python
 - Bash
+- Expressões Regulares (Regex)
+> Uso com pouca frequência/desuso.
 - Batch
-- Docker
 - Solidity
 - Assembly
 - C#
@@ -69,12 +69,13 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - ActionScript
 - Pascal
 - NSE (Nmap)
-- Expressões Regulares (Regex)
 - WebAssembly (WASM) 
 
 # Variantes de SQL
+> Uso no dia-a-dia.
 - SQL
 - PL/SQL
+> Uso com pouca frequência/desuso.
 - T-SQL
 - JSON-like
 - CQL (Cassandra Query)
@@ -83,18 +84,20 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - AQL (ArangoDB Query)
 
 # Conexões de Rede
-- Dgram
+> Uso no dia-a-dia.
 - WebSocket
-- Net
 - HTTP
-- Buffer
-- RCON
-- RCP
-- ICMP
 - Socket (incluindo Socket Raw e Stream)
 - VPN, Proxy e Proxychain
 - Protocolos SSL/TLS
 - Apache (servidor web)
+> Uso com pouca frequência/desuso.
+- Dgram
+- Net
+- Buffer
+- RCON
+- RCP
+- ICMP
 - IIS (servidor web)
 
 # Formatação de Arquivos
@@ -105,24 +108,28 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - Formatos Personalizados (ex: BIN)
 
 # Frameworks e Bibliotecas
+> Uso no dia-a-dia.
+- p5.js
 - Laravel
-- React + React-DOM
 - Tailwind CSS
+- TypeScript (Superset)
+> Uso com pouca frequência/desuso.
+- React + React-DOM
 - Bootstrap
 - jQuery
-- TypeScript (Superset)
 - Django
-- p5.js
 
 # Ferramentas Utilizadas
+> Uso no dia-a-dia.
 - Node.js
 - Tampermonkey
+- Figma
+- Construct 2 & 3
+- Sketchware
+> Uso com pouca frequência/desuso.
 - Tor
 - Firebase
 - Android Studio
-- Sketchware
-- Figma
-- Construct 2 & 3
 - WordPress
 - Metasploit
 - Burp Suite
@@ -131,6 +138,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - Regedit (Editor do Registro do Windows)
 
 # Tecnologias de Banco de Dados e ORM
+> Uso com pouca frequência/desuso.
 - Redis
 - Mongoose
 - Sequelize
@@ -139,6 +147,7 @@ Acesse: https://artificial.js.org/reference para consultar a documentação do p
 - Eloquent
 
 # Inteligência Artificial
+> Apenas hobby (meu passa-tempo)
 - Redes Neurais Artificiais (RNA)
 - Algoritmos Genéticos (AG)
 - Treinamento de Modelos
