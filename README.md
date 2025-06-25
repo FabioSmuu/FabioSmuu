@@ -9,15 +9,17 @@
 
 Estou desde 2012 estudando por conta própria e sempre buscando cada vez mais conhecimento, buscando ao máximo novas experiencias, projetos, desafios, novidades e me descobrir cada vez mais.
 
- Comecei na área através de um computador bem atiguinho sem internet, onde só tinha joguinhos e o mspaint, então sempre busquei algo novo para fazer.... e foi ai que minha paixão começou, quando encontrei a system32 e as variações de extensões como *cmd, bat, vbs* e até mesmo *ini*.
+ Comecei na área através de um computador bem antiguinho sem internet, onde só tinha joguinhos e o mspaint, então sempre busquei algo novo para fazer.... e foi ai que minha paixão começou, quando encontrei a system32 e as variações de extensões como *cmd, bat, vbs* e até mesmo *ini*.
 
  Com o tempo, fui tentando entender como estes arquivos se comportavam e para que servia, mas para isso eu tinha de ficar indo na lan house para pesquisar, desde então comecei a tentar montar meus próprios "programinhas" com base no que eu aprendia.
 
  Fiquei por um bom tempo criando interfaces em hta com a back-end em *vbs* até descobrir que existia *vb, pascal e c#*, e a partir dai, comecei a brincar com desenvolvimento de software, fazendo alguns forms para contabilizar o consumo de água do condomínio onde morei, por exemplo.
 
-Hoje em dia me impressiono com o tanto que a tecnologia veio crescendo e tomando esta proporção enorme como, por exemplo, a área de data science.
+Hoje, continuo me surpreendendo com o avanço da tecnologia, especialmente áreas como data science, que antes pareciam distantes da minha realidade.
+> Não tenho formação acadêmica na área, apenas alguns cursos livres (como front-end, design gráfico e UI/UX), mas minha trajetória é feita de prática, projetos reais e sede de aprender.
 
 > E foi assim que comecei a me tornar o que sou hoje.
+
 
 **Obrigado pela atenção.**
 
